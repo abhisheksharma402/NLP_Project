@@ -1,0 +1,14 @@
+body {
+     background-color: #f0f2f6; /* Change this color to the desired background color */
+ }
+ 
+
+#output_g {
+     color: #417d43;
+     font-size: 1.6rem;
+}
+
+#output_f{
+     color: red;
+     font-size: 1.6rem;
+}
